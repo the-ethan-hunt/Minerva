@@ -1,4 +1,7 @@
 # Minerva
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat-square)](http://makeapullrequest.com)
+[![Forks](https://img.shields.io/github/forks/the-ethan-hunt/Minerva.svg)](https://github.com/the-ethan-hunt/Minerva/network)
+[![Stargazers](https://img.shields.io/github/stars/the-ethan-hunt/Minerva.svg)](https://github.com/the-ethan-hunt/Minerva/stargazers)
 
 
 ## Motivation
@@ -9,5 +12,5 @@ But since she herself cannot descend upon the Earth, she has instructed a group 
 
 ## Submitting a new book
 
-To include your suggested book, please pull a request and fill out the template. Your PR will then be discussed among and then included in 
-the list. 
+To include your suggested book, please pull a request and fill out the template. Your PR will then be discussed among the 'Guild' and then 
+included in the list. 
