@@ -12,5 +12,4 @@ But since she herself cannot descend upon the Earth, she has instructed a group 
 
 ## Submitting a new book
 
-To include your suggested book, please pull a request and fill out the template. Your PR will then be discussed among the 'Guild' and then 
-included in the list. 
+To include your suggested book, please read the [Contribution guidelines](https://github.com/the-ethan-hunt/Minerva/blob/master/CONTRIBUTING.md)
