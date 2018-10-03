@@ -4,4 +4,4 @@ worth their time. However, a set of guidlines must be followed to ensure the qua
 - Please fill in your book according to the **Pull Request Template**.
 - Ping the maintainer of the repository after no decision has been taken about your book since the last **6** days.
 - To include a book, you have to write the book title, the name of the author, the GoodReads recommendation and a brief description about why **you** would recommend it to read; not the GoodReads bio!
-- All these details have to be written in the `readme.md` itself.
+- All these details have to be written in a new Markdown file which is to be included in the genre folder.
